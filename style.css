@@ -1,0 +1,33 @@
+body{
+  background-color: #36454fff;
+}
+
+h1{
+  color:Black;
+}
+h2{
+  color:Black;
+}
+p{
+  color:Black;
+}
+
+.container{
+  max-width: 600px;
+  margin: 0 auto;
+  background: white;
+  padding: 100px;
+  border-radius: 100px;
+  color: grey;
+}
+
+.hero-img{
+  width: 100%;
+  height: auto;
+  border-radius:10px;
+   max-width: 600px;
+}
+
+h1 { font-size: 3vw;}
+p{font-size:2vw; }
+
